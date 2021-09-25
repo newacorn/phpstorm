@@ -1,2 +1,2 @@
-# phpstorm
+# PHPStorm Configuration Sync
 PHPStorm Configuration
