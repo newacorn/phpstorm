@@ -1,11 +1,11 @@
-<scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
+<scheme name="GitHub (Material) copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-09-26T06:45:59</property>
+    <property name="created">2021-09-26T07:18:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
     <property name="modified">2021-09-26T07:40:05</property>
-    <property name="originalScheme">GitHub (Material)</property>
+    <property name="originalScheme">_@user_GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -2850,6 +2850,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_BRACES">
+      <value />
+    </option>
     <option name="PHP_CLASS">
       <value>
         <option name="FOREGROUND" value="6f42c1" />
@@ -2919,7 +2922,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e36209" />
+        <option name="FOREGROUND" value="25c5ff" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
